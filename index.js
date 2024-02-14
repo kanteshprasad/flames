@@ -19,10 +19,10 @@ document.getElementById("loveCalculatorForm").addEventListener("submit", functio
      
      const respArr = [
         "F : You guys are Friends..!",
-        "L : You Love each other..! Go and tell them you love them..!",
+        "L : You Love each other..! ",
         "A : Attracted..! May be you have a chance..!",
-        "M : Married..? Soon you wil be.. ",
-        "E : Enemies.. may be you broke their PS 5 ?",
+        "M : Married..?  ",
+        "E : Enemies..  ?",
         "S : Siblings.. : )"]
      
 
